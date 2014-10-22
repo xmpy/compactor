@@ -20,7 +20,6 @@ setup(
   packages=['compactor'],
   install_requires=[
     'trollius',
-    'tornado==4.1.dev1',
     'twitter.common.lang',
   ],
   extras_require={
